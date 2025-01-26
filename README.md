@@ -21,8 +21,9 @@
 ### ✨ About Me.
 
 - 한국어 및 일본어(日本語)로 소통합니다!  
-  Communicate in **Korean 🇰🇷** and **Japanese 🇯🇵**  
+  _Communicate in **Korean 🇰🇷** and **Japanese 🇯🇵**_  
 - 커뮤니티에서 멘토링으로 재능을 기부하고 있습니다!  
+  _Contributing to the community by offering mentorship_  
 - 매너 있고 다정한 젊은 남자 개발자입니다...^^ (넣을 문구 추천받읍니다...^^)
 
 ### Works
