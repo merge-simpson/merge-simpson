@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 
 ## 🔭 Studying with
 
-### 🚀 Nettee
+### 🚀 Nettee: Network Mentee
 
 > **서로의 멘토·멘티가 되어 주는 스터디를 기획하여 운영하고 있습니다!**  
 > 
