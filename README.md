@@ -76,6 +76,8 @@ Here are some ideas to get you started:
 - [비밀번호 단방향 암호화: 사이트를 만드는 누구나 당신의 비밀번호를 볼 수 있다면 - 가변솔트와 반복해싱, 페퍼링 등](https://blog.letsdev.me/password-encryption-concept-kor)
 - [헥사고날 아키텍처 시놉시스](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)
 
+<br />
+
 ## 🔭 Studying with
 
 ### 🚀 Nettee
