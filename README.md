@@ -1,9 +1,57 @@
-# 안녕하세요 👋 팀의 비전을 관찰하며 함께 나은 방향을 고민하는 개발자입니다!
+<!-- HTML preferred -->
 
-> **_팀원에게 열정을 강요하기보다,  
-> 열정을 심어 줄 수 있는 사람이 되어 주고 싶습니다!_**
+## 안녕하세요 👋<br />팀의 비전을 관찰하며 함께 나은 방향을 고민하는 개발자입니다!
 
----
+<br />
+
+<div width="1000px" align="left">
+  <table border="3">
+    <tr>
+      <td width="75" align="center">🚀</td>
+      <td height="75">
+        <blockquote>
+          <strong>팀원에게 열정을 강요하기보다, 열정을 심어 주는 사람이 되어 주고 싶습니다!<br /></strong>
+          <em>Rather than forcing passion upon my team, I want to be someone who plants the seeds of it within them.</em>
+        </blockquote>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+### ✨ About Me.
+
+- 한국어 및 일본어(日本語)로 소통합니다!  
+  Communicate in **Korean 🇰🇷** and **Japanese 🇯🇵**  
+- 커뮤니티에서 멘토링으로 재능을 기부하고 있습니다!  
+- 매너 있고 다정한 젊은 남자 개발자입니다...^^ (넣을 문구 추천받읍니다...^^)
+
+<br />
+
+### Works
+
+🧑🏻‍💻 매출 100억+ 핀테크 스타트업의 초기 시스템 전반 구축을 리드한 경험이 있습니다.
+
+🧑🏻‍💻 커머스 스타트업(이커머스 플랫폼)의 초기 시스템 전반 구축을 리드한 경험이 있습니다.
+
+🧑🏻‍💻 20년 이상 업력이 있는 콘텐츠 기업의 차기 SSO 시스템 초기 설계를 담당하고, 아키텍처 리서치, 로그·통계 리서치 등을 했습니다.
+
+<!-- 바이올린소나타 님: 안 좋게 보이기보단, 조금 더 구체적으로 알고 싶다. -->
+
+<br />
+
+<table border="3">
+  <tr>
+    <td width="75" align="center">❤️</td>
+    <td height="75">
+        <strong>초록우산 어린이재단 정기후원 - since 2017<br /></strong>
+        <em>Monthly Sponsorship for Green Umbrella Children's Foundation</em>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <!--
 **merge-simpson/merge-simpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +68,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💬 최근 포스팅 Recent Articles
+<h2 align="left">Blog Posts 💬</h2>
 
-**Korean**
+> 오해를 덜어내고 정제된 정보를 전달하기 위해 노력하는 초보 블로거입니다. 🌱
+
+### 🇰🇷 Korean
 
 - [What do you misunderstand about JWT Authentication?](https://blog.letsdev.me/concept-jwt-authentication-1-kor)
 - [2024 NIST 비밀번호 가이드라인](https://blog.letsdev.me/nist-password-guidelines-2024-kor)
@@ -32,8 +82,20 @@ Here are some ideas to get you started:
 
 ## 🔭 Studying with
 
-**🚀 Nettee**
-| Organizer | Backend
+### 🚀 Nettee
 
-- [introduction](https://nettee.notion.site/Introduction-Nettee-s-Blog-13301973b23a806f9471cc4a6f22cd14)
+> **서로의 멘토·멘티가 되어 주는 스터디를 기획하여 운영하고 있습니다!**  
+> 
+> 해결중심적인 60%의 현업자와 40%의 신입 지망생 21명이 함께하는  
+> 
+> **롱텀 사이드 프로젝트**입니다.  
+
+<table>
+  <tr>
+    <td>Organizer</td>
+    <td>Backend Developer</td>
+  </tr>
+</table>
+
+- [introduction](https://nettee.notion.site/introduction)
 - [organization](https://github.com/nettee-space)
