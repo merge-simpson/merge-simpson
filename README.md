@@ -37,6 +37,8 @@
 
 ### Sponsorship
 
+좋은 일은 보이는 곳에서 함께 나누면, 선한 영향력을 널리 퍼뜨린다고 생각합니다!  
+
 <table border="3">
   <tr>
     <td width="75" align="center">❤️</td>
