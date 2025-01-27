@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 # 🚀 Activities
 
-## Blog Posts 💬
+## 💬 Blog Posts
 
 > 오해를 덜어내고 정제된 정보를 전달하기 위해 노력하는 초보 블로거입니다. 🌱
 
