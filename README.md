@@ -118,7 +118,7 @@ Here are some ideas to get you started:
 
 <table border="3">
   <tr>
-    <td width="600">
+    <td width="470">
       <div>
         <strong>💭 Blog = Web + Log, 그 다음 세대</strong>
         <p><blockquote>일상의 조각 모음과 전문적인 정보 공유까지.<br />블로그는 어원인 Web + Log, 그 이상의 정보 공유로 사용되어 왔습니다.</blockquote></p>
@@ -131,7 +131,7 @@ Here are some ideas to get you started:
 
 <table border="3">
   <tr>
-    <td width="600">
+    <td width="470">
       <div>
         <strong>✏️ 쉽게 시작하는 좋은 습관</strong>
         <p><blockquote>꾸준한 글쓰기는 쉬운 글쓰기에서 시작됩니다.</blockquote></p>
@@ -143,7 +143,7 @@ Here are some ideas to get you started:
   </tr>
   <tr border="3"><td border="3"> Nettee는 이런 분들을 위해 채팅형 UI를 포함해, 쉽고 자연스러운 글쓰기를 지원합니다!</td></tr>
   <tr>
-    <td width="600">
+    <td>
       <div>
         <p>Nettee가 만드는 블로그에서, 말풍선 UI를 통해 기존의 줄글 형식에서 벗어나 양방향 소통형 글쓰기를 경험할 수 있습니다.</p>
         <p><strong>결국, 더 짧은 시간에 생동감 있는 글을 작성할 수 있습니다!</strong></p>
