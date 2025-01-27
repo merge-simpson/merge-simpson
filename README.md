@@ -4,7 +4,9 @@
 
 <br />
 
+<!--
 > 팀의 비전을 관찰하고, 함께 나은 방향을 고민하기 위해서...
+-->
 
 <div width="1000px" align="left">
   <table border="3">
