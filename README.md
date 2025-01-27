@@ -1,8 +1,10 @@
 <!-- HTML preferred -->
 
-## 안녕하세요 👋<br />🌕 달에서 온 개발자 Merge Simpson입니다!
+## 안녕하세요 👋<br />달에서 온 개발자 Merge Simpson입니다! 🌕
 
 <br />
+
+> 팀의 비전을 관찰하고, 함께 나은 방향을 고민하기 위해서...
 
 <div width="1000px" align="left">
   <table border="3">
