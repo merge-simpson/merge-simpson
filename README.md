@@ -2,6 +2,10 @@
 
 ## 안녕하세요 👋<br />달에서 온 개발자 Merge Simpson입니다! 🌕
 
+<!--
+<h1 align="left"> 🪧 Profile </h1>
+-->
+
 <br />
 
 > 팀의 비전을 관찰하고, 함께 나은 방향을 찾아 가기 위해 👀
@@ -67,11 +71,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Blog Posts 💬</h2>
+# 🚀 Activities
+
+## Blog Posts 💬
 
 > 오해를 덜어내고 정제된 정보를 전달하기 위해 노력하는 초보 블로거입니다. 🌱
 
+
+<!--
 ### 🇰🇷 Korean
+-->
 
 - [What do you misunderstand about JWT Authentication?](https://blog.letsdev.me/concept-jwt-authentication-1-kor)
 - [2024 NIST 비밀번호 가이드라인](https://blog.letsdev.me/nist-password-guidelines-2024-kor)
@@ -83,7 +92,7 @@ Here are some ideas to get you started:
 
 ## 🔭 Studying with
 
-### 🚀 Nettee: Network Mentee
+### 🌸 Nettee: Network Mentee
 
 > **서로의 멘토·멘티가 되어 주는 스터디를 기획하여 운영하고 있습니다!**  
 > 
