@@ -45,9 +45,9 @@
 좋은 일은 보이는 곳에서 함께 나누면, 선한 영향력을 널리 퍼뜨릴 수 있다고 생각합니다!  
 
 <table border="3">
-  <tr>
+  <tr height="75">
     <td width="75" align="center">❤️</td>
-    <td height="75">
+    <td>
         <strong>초록우산 어린이재단 정기후원 - since 2017<br /></strong>
         <em>Monthly Sponsorship for Green Umbrella Children's Foundation</em>
     </td>
@@ -94,18 +94,71 @@ Here are some ideas to get you started:
 
 ### 🌸 Nettee: Network Mentee
 
-> **서로의 멘토·멘티가 되어 주는 스터디를 기획하여 운영하고 있습니다!**  
-> 
-> 해결중심적인 60%의 현업자와 40%의 신입 지망생 21명이 함께하는  
-> 
-> **롱텀 사이드 프로젝트**입니다.  
-
-<table>
+<table align="right" border="3"> <tr></tr>
   <tr>
     <td>Organizer</td>
     <td>Backend Developer</td>
   </tr>
 </table>
 
+> **서로의 멘토·멘티가 되어 주는 스터디를 기획하여 운영하고 있습니다!**  
+> 
+> 해결중심적인 60%의 현업자와 40%의 신입 지망생 21명이 함께하는  
+> 
+> **롱텀 사이드 프로젝트**입니다.  
+
 - [introduction](https://nettee.notion.site/introduction)
 - [organization](https://github.com/nettee-space)
+
+### 💬 말풍선 UI로 전달하는, 쉽고 전달력 있는 글쓰기
+
+<a href="https://nettee.notion.site/introduction">
+  <img width="340" alt="" align="left" src="https://file.notion.so/f/f/f2636925-e81c-435b-900d-85ba6696597a/b84a6858-e2e1-4555-8c2a-37e4ccad815f/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8B%E1%85%B4-nettee-%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB-q60.avif?table=block&id=18701973-b23a-8081-95a5-e5dcc9fbf3b6&spaceId=f2636925-e81c-435b-900d-85ba6696597a&expirationTimestamp=1738022400000&signature=L6U4wGhst61x0E1ABwHsqjf00rXwXM19iqsNTmm8HHc" />
+</a>
+
+<table border="3">
+  <tr>
+    <td width="600">
+      <div>
+        <strong>💭 Blog = Web + Log, 그 다음 세대</strong>
+        <p><blockquote>일상의 조각 모음과 전문적인 정보 공유까지.<br />블로그는 어원인 Web + Log, 그 이상의 정보 공유로 사용되어 왔습니다.</blockquote></p>
+        <p><strong>🤔 하지만 전달력 있는 글을 쓰는 것은 어려운 일인데요.</strong></p>
+        <span>우리 "Nettee"는 누구나 더 쉽고 정확하게 정보를 전달할 수 있는 구조를 생각했습니다!</span>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<table border="3">
+  <tr>
+    <td width="600">
+      <div>
+        <strong>✏️ 쉽게 시작하는 좋은 습관</strong>
+        <p><blockquote>꾸준한 글쓰기는 쉬운 글쓰기에서 시작됩니다.</blockquote></p>
+        <i>"오늘도 많은 사람들이 글쓰기를 결심하지만, 막상 마침표를 찍기도 전에 포기하고 맙니다."</i>
+        <br />
+        <i>"답답한 줄글은 이제 그만! 글쓰기는 쉬워야 합니다."</i>
+      </div>
+    </td>
+  </tr>
+  <tr border="3"><td border="3"> Nettee는 이런 분들을 위해 채팅형 UI를 포함해, 쉽고 자연스러운 글쓰기를 지원합니다!</td></tr>
+  <tr>
+    <td width="600">
+      <div>
+        <p>Nettee가 만드는 블로그에서, 말풍선 UI를 통해 기존의 줄글 형식에서 벗어나 양방향 소통형 글쓰기를 경험할 수 있습니다.</p>
+        <p><strong>결국, 더 짧은 시간에 생동감 있는 글을 작성할 수 있습니다!</strong></p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+See: https://nettee.notion.site/introduction
+
+✅ **빠르고 안전한 Draft 설계하기**
+✅ **작성자가 참여하는 이미지 최적화**
+✅ **한층 한층 단단한 인증**
+✅ **프론트엔드와 협업하는 빠른 업데이트, 빠른 조회**
+✅ **지속 가능한 협업을 지향하기**
+✅ **실력차가 있더라도 서로 탓하기보다 부족한 부분을 채워 줄 수 있는 환경을 제공하고 싶습니다!**
+
+기섭닷콤(github.com) 프로필은 공사 중입니다...^^
