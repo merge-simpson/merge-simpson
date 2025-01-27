@@ -77,7 +77,6 @@ Here are some ideas to get you started:
 
 > 오해를 덜어내고 정제된 정보를 전달하기 위해 노력하는 초보 블로거입니다. 🌱
 
-
 <!--
 ### 🇰🇷 Korean
 -->
@@ -104,13 +103,12 @@ Here are some ideas to get you started:
 > **서로의 멘토·멘티가 되어 주는 스터디를 기획하여 운영하고 있습니다!**  
 > 
 > 해결중심적인 60%의 현업자와 40%의 신입 지망생 21명이 함께하는  
-> 
 > **롱텀 사이드 프로젝트**입니다.  
 
 - [introduction](https://nettee.notion.site/introduction)
 - [organization](https://github.com/nettee-space)
 
-### 💬 말풍선 UI로 전달하는, 쉽고 전달력 있는 글쓰기
+### 💬 말풍선 UI를 담아 낸, 쉽고 전달력 있는 글쓰기
 
 <a href="https://nettee.notion.site/introduction">
   <img width="340" alt="" align="left" src="https://file.notion.so/f/f/f2636925-e81c-435b-900d-85ba6696597a/b84a6858-e2e1-4555-8c2a-37e4ccad815f/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8B%E1%85%B4-nettee-%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB-q60.avif?table=block&id=18701973-b23a-8081-95a5-e5dcc9fbf3b6&spaceId=f2636925-e81c-435b-900d-85ba6696597a&expirationTimestamp=1738022400000&signature=L6U4wGhst61x0E1ABwHsqjf00rXwXM19iqsNTmm8HHc" />
