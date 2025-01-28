@@ -1,5 +1,24 @@
 <!-- HTML preferred -->
 
+<table>
+  <tr>
+    <th>JOB 🚫</th>
+    <td>I'm <b>not</b> seeking employment, yet. 👍</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <th>STUDY ✅</th>
+    <td>(🇰🇷) Looking for foreign members to study with Koreans.</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr height="10px">
+    <th height="10px">GF ❤️‍🔥</th>
+    <td height="10px">2D Only</td>
+  </tr>
+</table>
+
 ## 안녕하세요 👋<br />달에서 온 개발자 Merge Simpson입니다! 🌕
 
 <!--
@@ -129,8 +148,7 @@ Here are some ideas to get you started:
 - [organization](https://github.com/nettee-space)
 
 <details>
-  <summary><h3>💬 말풍선 UI를 담아 낸, 쉽고 전달력 있는 글쓰기</h3></summary>
-
+  <summary><h4>💬 말풍선 UI를 담아 낸, 쉽고 전달력 있는 글쓰기</h4></summary>
 
 <a href="https://nettee.notion.site/introduction">
   <img width="340" alt="" align="left" src="https://file.notion.so/f/f/f2636925-e81c-435b-900d-85ba6696597a/b84a6858-e2e1-4555-8c2a-37e4ccad815f/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8B%E1%85%B4-nettee-%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB-q60.avif?table=block&id=18701973-b23a-8081-95a5-e5dcc9fbf3b6&spaceId=f2636925-e81c-435b-900d-85ba6696597a&expirationTimestamp=1738022400000&signature=L6U4wGhst61x0E1ABwHsqjf00rXwXM19iqsNTmm8HHc" />
@@ -182,9 +200,80 @@ See: https://nettee.notion.site/introduction
 ✅ **실력차가 있더라도 서로 탓하기보다 부족한 부분을 채워 줄 수 있는 환경을 제공하고 싶습니다!**
 
 ---
+</details>
+
+<details>
+  <summary><h4>🤔 어떤 문제를 해결할까요?</h4></summary>
+
+우리의 가치를 드러내는 게 진짜 목적이에요!  
+만드는 데 급급하기보다, 우리가 성장하고 그 결과를 보여 주어야 합니다!  
+
+---
+
+**🌱 함께하는 목적을 잃지 않기**
+
+<table>
+  <tr>
+    <td>
+      <span>Nettee의 취지는 크로스 멘토링입니다!</span><br />
+      <strong><em>실력차가 있더라도 서로 탓하기보다 부족한 부분을 채워 줄 수 있는 환경을 제공하고 싶습니다.</em></strong>
+    </td>
+  </tr>
+</table>
+
+- 참여하고 싶은 파트를 자유롭게 선택합니다!  
+  > 한 분야의 스페셜리스트로 성장하면서 제너럴리스트로 성장할 수 있게, 내가 참여할 파트를 스스로 선택해 기여합니다.  
+- 롱텀 프로젝트! 원하는 기간(파트)을 약속하고 참여할 수 있습니다.  
+  > 지속적으로 발전 가능한 프로젝트를 추구합니다. 기능 개발과 더불어, 운영 과정에서 발생하는 이슈들을 경험하고 능동적으로 문제 해결에 참여할 수 있습니다.  
+- 서로의 작업 속도에 눈치를 주면 안 됩니다!
+  > 적극적으로 기여하는 만큼 나의 성장으로 이어집니다! 따라서 타인에게 눈치를 주지 않아도 되는 구조입니다.  
+- 베스트 프랙티스보다 베스트 팀워크를 지향합니다!
+  > 나은 기술에 대한 논의가, 스터디 동료에게 상처를 주어도 될 만큼 가치 있는 건 아니라고 생각합니다! 😘
+
+<details>
+  <summary><strong>🔑 백엔드: 한층 한층 단단한 인증</strong></summary><br />
+
+- 당신이 알고 있는 JWT, OAuth! 정말 오해는 없는 걸까요? 취약성을 진단하며, 안전성을 강화합니다.  
+- 무지막지 지연되는 비밀번호 히스토리와 비밀번호 재사용 방지! 가볍고 빠르게 개선해 봅니다.  
+- 최신화된 비밀번호 정책으로, 사용자들의 습관을 반영해서 암호의 안전성을 추구합니다!  
+- OTP를 SMS나 이메일로 전달할 때, 경유하는 모든 서비스와 모든 통신 구간을 신뢰할 수 있을까요?  
+  통신 구간을 신뢰하지 않아도, 사용자는 신뢰할 수 있도록 설계를 보강합니다.  
+- 그리고 이런 논의가 가능하도록 배경 지식을 공유하고, 모두와 리서치하고 논의하며 탄탄히 해 봅니다!  
+  
+</details>
+
+<details>
+  <summary><strong>😎 백엔드: 협업으로 만들어 가는 의미 있는 아키텍처</strong></summary><br />
+
+백엔드 팀은 헥사고날 아키텍처와 멀티모듈 프로젝트를 담아, 세 단계의 레포지터리를 기존 멤버 및 미래의 멤버에게 소개합니다.  
+엇, '오버스펙'으로 보이는 것들이 있나요?  
+
+- 우리는 탐구적인 스터디예요. 따라하기 바쁘기보다, 나아갈 수 있도록 개선책을 찾는 것을 좋아합니다!
+- 모방하는 데 그치지 않고 작업 편의를 갖추는 전략을 갖고 있습니다!
+- 경험자의 노하우와 참신한 모두의 아이디어를 모아서, 지속 가능한 멀티모듈 프로젝트가 뭔지 보여 드릴게요.
+- 새 기술의 도입이 기존 소스 코드에 영향을 주지 않도록 설계해서, 탄력적으로 참여하는 협업 구조에 맞춥니다!
+
+**_"🤔 It makes sence to me!"_**
+
+그래서 저희는 배경지식의 차이를 좁히고 단계적으로 적응할 수 있는 레포지터리를 준비하고 있습니다.
+
+1. Layered Architecture (Simple CRUD)  
+> 기본 CRUD 적응이면서도, 의외로 현업자에게도 낯설지 모르는 몇 가지 작업 방식에 초점을 둡니다.
+> 이 단계에서는 복잡한 설계나 복잡한 코드의 많은 부분을 생략하고, 오로지 구조 이해를 돕는 데 집중합니다.
+
+2. Hexagonal Architecture (Team works)
+> 각 계층의 역할에 대한 이해와 오해! 그중 핵심적인 부분을 공유하며 서로의 생각을 진단합니다.
+
+3. Multimodule Project with Hexagonal Architecture (Team works)
+> 본격적인 협업 코드 스타일을 담아 내는 프로젝트입니다! 과연 이전 헥사고날 아키텍처의 원형을 유지할까요? 😉  
+  
+</details>
+
+---
+
+</details>
 
 <!--
-</details>
 
 <details>
   <summary><h3>협업으로 만들어 가는 단계적인 아키텍처 리서치 레포지터리</h3></summary>
