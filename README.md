@@ -223,6 +223,10 @@ See: https://nettee.notion.site/introduction
 - 베스트 프랙티스보다 베스트 팀워크를 지향합니다!
   > 나은 기술에 대한 논의가, 스터디 동료에게 상처를 주어도 될 만큼 가치 있는 건 아니라고 생각합니다! 😘
 
+---
+
+</details>
+
 <details>
   <summary><strong>🔑 백엔드: 한층 한층 단단한 인증</strong></summary><br />
 
@@ -260,10 +264,6 @@ See: https://nettee.notion.site/introduction
 3. Multimodule Project with Hexagonal Architecture (Team works)
 > 본격적인 협업 코드 스타일을 담아 내는 프로젝트입니다! 과연 이전 헥사고날 아키텍처의 원형을 유지할까요? 😉  
   
-</details>
-
----
-
 </details>
 
 <!--
