@@ -12,6 +12,7 @@
     <td>(🇰🇷) Looking for foreign members to study with Koreans.</td>
   </tr>
 </table>
+<hr />
 
 ## 안녕하세요 👋<br />달에서 온 개발자 Merge Simpson입니다! 🌕
 
