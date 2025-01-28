@@ -172,7 +172,23 @@ See: https://nettee.notion.site/introduction
 ✅ **실력차가 있더라도 서로 탓하기보다 부족한 부분을 채워 줄 수 있는 환경을 제공하고 싶습니다!**
 
 ---
-  
+
+<!--
 </details>
 
+<details>
+  <summary><h3>협업으로 만들어 가는 단계적인 아키텍처 리서치 레포지터리</h3></summary>
+
+다음처럼 세 단계 레포지터리를 ... 리서치
+
+1. Layered Architecture (Simple CRUD)
+2. Hexagonal Architecture (Team works)
+3. Multimodule Project with Hexagonal Architecture (Team works)
+
+주요 이슈
+
+- [이슈: Domain BoardStatus와 JPA Entity BoardStatus를 서로 나누어야 합니까?](https://github.com/nettee-space/backend-sample-hexagonal-simple-crud/issues/22#issuecomment-2582121840)
+  
+</details>
+-->
 기섭닷콤(github.com) 프로필은 공사 중입니다...^^
