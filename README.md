@@ -228,7 +228,7 @@ See: https://nettee.notion.site/introduction
 </details>
 
 <details>
-  <summary><strong>🔑 백엔드: 한층 한층 단단한 인증</strong></summary><br />
+  <summary><strong>+ 🔑 백엔드: 한층 한층 단단한 인증</strong></summary><br />
 
 - 당신이 알고 있는 JWT, OAuth! 정말 오해는 없는 걸까요? 취약성을 진단하며, 안전성을 강화합니다.  
 - 무지막지 지연되는 비밀번호 히스토리와 비밀번호 재사용 방지! 가볍고 빠르게 개선해 봅니다.  
@@ -240,7 +240,7 @@ See: https://nettee.notion.site/introduction
 </details>
 
 <details>
-  <summary><strong>😎 백엔드: 협업으로 만들어 가는 의미 있는 아키텍처</strong></summary><br />
+  <summary><strong>+ 😎 백엔드: 협업으로 만들어 가는 의미 있는 아키텍처</strong></summary><br />
 
 백엔드 팀은 헥사고날 아키텍처와 멀티모듈 프로젝트를 담아, 세 단계의 레포지터리를 기존 멤버 및 미래의 멤버에게 소개합니다.  
 엇, '오버스펙'으로 보이는 것들이 있나요?  
