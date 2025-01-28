@@ -11,12 +11,6 @@
     <th>STUDY ✅</th>
     <td>(🇰🇷) Looking for foreign members to study with Koreans.</td>
   </tr>
-  <tr>
-  </tr>
-  <tr height="10px">
-    <th height="10px">GF ❤️‍🔥</th>
-    <td height="10px">2D Only</td>
-  </tr>
 </table>
 
 ## 안녕하세요 👋<br />달에서 온 개발자 Merge Simpson입니다! 🌕
