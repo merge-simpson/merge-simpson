@@ -81,7 +81,9 @@ Here are some ideas to get you started:
 
 > 오해를 덜고 정제된 정보를 전달하기 위해 노력하는 초보 블로거입니다. 🌱
 
-<a href="https://blog.letsdev.me/password-history-kor"><img width="399" align="right" alt="Password History. Recent 100 passwords prevented. 최근 사용한 비밀번호 100개 재사용 방지" src="https://github.com/user-attachments/assets/5801647d-e96d-42dc-af5d-acb4a886e74c" /></a>
+<a href="https://blog.letsdev.me/password-history-kor">
+  <img width="399" align="right" alt="Password History. Recent 100 passwords prevented. 최근 사용한 비밀번호 100개 재사용 방지" src="https://github.com/user-attachments/assets/5801647d-e96d-42dc-af5d-acb4a886e74c" />
+</a>
 
 <!--
 ### 🇰🇷 Korean
@@ -101,6 +103,7 @@ Here are some ideas to get you started:
 
 - [헥사고날 아키텍처 시놉시스](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)
 
+<br />
 <br />
 
 ## Studying with 🔭
