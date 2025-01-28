@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 **당신이 JWT 인증에서 오해하는 것들**
 
-- (긴 글) [What do you misunderstand about the JWT Authentication?](https://blog.letsdev.me/concept-jwt-authentication-1-kor)
+(긴 글) [What do you misunderstand about the JWT Authentication?](https://blog.letsdev.me/concept-jwt-authentication-1-kor)
 
 **비밀번호 관리하기**
 
@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 
 **헥사고날 아키텍처**
 
-- [헥사고날 아키텍처 시놉시스](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)
+[헥사고날 아키텍처 시놉시스](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)
 
 <br />
 <br />
