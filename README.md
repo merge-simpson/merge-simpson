@@ -5,14 +5,12 @@
     <th>JOB 🚫</th>
     <td>I'm <b>not</b> seeking employment, yet. 👍</td>
   </tr>
-  <tr>
-  </tr>
+  <tr></tr>
   <tr>
     <th>STUDY ✅</th>
     <td>(🇰🇷) Looking for foreign members to study with Koreans.</td>
   </tr>
 </table>
-<hr />
 
 ## 안녕하세요 👋<br />달에서 온 개발자 Merge Simpson입니다! 🌕
 
