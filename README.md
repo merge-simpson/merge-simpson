@@ -75,18 +75,26 @@ Here are some ideas to get you started:
 
 ## Blog Posts 💬
 
-<a href="https://blog.letsdev.me/password-history-kor"><img width="399" align="right" alt="Password History. Recent 100 passwords prevented. 최근 사용한 비밀번호 100개 재사용 방지" src="https://github.com/user-attachments/assets/5801647d-e96d-42dc-af5d-acb4a886e74c" /><br /></a>
-
 > 오해를 덜고 정제된 정보를 전달하기 위해 노력하는 초보 블로거입니다. 🌱
+
+<a href="https://blog.letsdev.me/password-history-kor"><img width="399" align="right" alt="Password History. Recent 100 passwords prevented. 최근 사용한 비밀번호 100개 재사용 방지" src="https://github.com/user-attachments/assets/5801647d-e96d-42dc-af5d-acb4a886e74c" /></a>
 
 <!--
 ### 🇰🇷 Korean
 -->
 
-- [What do you misunderstand about the JWT Authentication?](https://blog.letsdev.me/concept-jwt-authentication-1-kor)
+**당신이 JWT 인증에서 오해하는 것들**
+
+- (긴 글) [What do you misunderstand about the JWT Authentication?](https://blog.letsdev.me/concept-jwt-authentication-1-kor)
+
+**비밀번호 관리하기**
+
 - [2024 NIST 비밀번호 가이드라인](https://blog.letsdev.me/nist-password-guidelines-2024-kor)
-- [무지막지 지연되는 비밀번호 히스토리 관리와 재사용 방지, 가볍고 빠르고 안전하게 개선하기](https://blog.letsdev.me/password-history-kor)
+- (긴 글) [무지막지 지연되는 비밀번호 히스토리 관리와 재사용 방지, 가볍고 빠르고 안전하게 개선하기](https://blog.letsdev.me/password-history-kor)
 - [비밀번호 단방향 암호화: 사이트를 만드는 누구나 당신의 비밀번호를 볼 수 있다면 - 가변솔트와 반복해싱, 페퍼링 등](https://blog.letsdev.me/password-encryption-concept-kor)
+
+**헥사고날 아키텍처**
+
 - [헥사고날 아키텍처 시놉시스](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)
 
 <br />
