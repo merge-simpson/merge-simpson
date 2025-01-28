@@ -110,7 +110,9 @@ Here are some ideas to get you started:
 - [introduction](https://nettee.notion.site/introduction)
 - [organization](https://github.com/nettee-space)
 
-### 💬 말풍선 UI를 담아 낸, 쉽고 전달력 있는 글쓰기
+<details>
+  <summary><h3>💬 말풍선 UI를 담아 낸, 쉽고 전달력 있는 글쓰기</h3></summary>
+
 
 <a href="https://nettee.notion.site/introduction">
   <img width="340" alt="" align="left" src="https://file.notion.so/f/f/f2636925-e81c-435b-900d-85ba6696597a/b84a6858-e2e1-4555-8c2a-37e4ccad815f/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8B%E1%85%B4-nettee-%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB-q60.avif?table=block&id=18701973-b23a-8081-95a5-e5dcc9fbf3b6&spaceId=f2636925-e81c-435b-900d-85ba6696597a&expirationTimestamp=1738022400000&signature=L6U4wGhst61x0E1ABwHsqjf00rXwXM19iqsNTmm8HHc" />
@@ -160,5 +162,9 @@ See: https://nettee.notion.site/introduction
 ✅ **프론트엔드와 협업하는 빠른 업데이트, 빠른 조회**
 ✅ **지속 가능한 협업을 지향하기**
 ✅ **실력차가 있더라도 서로 탓하기보다 부족한 부분을 채워 줄 수 있는 환경을 제공하고 싶습니다!**
+
+---
+  
+</details>
 
 기섭닷콤(github.com) 프로필은 공사 중입니다...^^
