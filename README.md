@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 ## Blog Posts 💬
 
-<a href="https://blog.letsdev.me/password-history-kor"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1725490104998/2679c0fa-5626-4d3d-a624-db87555b78fd.avif?auto=compress,format&format=webp" /></a>
+<a href="https://cdn.hashnode.com/res/hashnode/image/upload/v1725490104998/2679c0fa-5626-4d3d-a624-db87555b78fd.avif?auto=compress,format&format=webp"><img width="500" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1725490104998/2679c0fa-5626-4d3d-a624-db87555b78fd.avif?auto=compress,format&format=webp" /></a>
 
 > 오해를 덜어내고 정제된 정보를 전달하기 위해 노력하는 초보 블로거입니다. 🌱
 
