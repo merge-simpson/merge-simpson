@@ -98,10 +98,10 @@ Here are some ideas to get you started:
 **Common Mistakes in Authentication**
 
 - [JWT 인증에서 오해하는 것들](https://blog.letsdev.me/concept-jwt-authentication-1-kor)  
-  ‹_What do you misunderstand about the JWT Authentication?_›  
+  ‹_What Do You Misunderstand about The JWT Authentication?_›  
   _Long Read ⏳ 10 min+_
 - [이메일 인증에서 오해하는 것들](https://blog.letsdev.me/email-otp)  
-  ‹_Mail services DO NOT guarantee secure transmissions._›  
+  ‹_Mail Services DO NOT Guarantee Secure Transmissions._›  
 
 **사용자 비밀번호 관리하기**
 
@@ -111,7 +111,7 @@ Here are some ideas to get you started:
   ‹_Severe Delays in Password History & Reuse Prevention: Achieving a Lightweight, Fast, and Secure Solution_›  
   _Long Read ⏳ 10 min+, still writing_
 - [비밀번호 단방향 암호화: 사이트를 만드는 누구나 당신의 비밀번호를 볼 수 있다면 - 가변솔트와 반복해싱, 페퍼링 등](https://blog.letsdev.me/password-encryption-concept-kor)  
-  ‹_One-Way Password Hashing: If Anyone Building Their Own Site Can See Your Password_›  
+  ‹_One-Way Password Encryption: If Anyone Building Their Own Site Can See Your Password_›  
   _Long Read ⏳ 10 min+_
 
 **Software Architecture**
