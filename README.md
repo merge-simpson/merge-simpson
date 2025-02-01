@@ -159,7 +159,7 @@ Here are some ideas to get you started:
   <summary><h4>💬 말풍선 UI를 담아 낸, 쉽고 전달력 있는 글쓰기</h4></summary>
 
 <a href="https://nettee.notion.site/introduction">
-  <img width="340" alt="" align="left" src="https://file.notion.so/f/f/f2636925-e81c-435b-900d-85ba6696597a/b84a6858-e2e1-4555-8c2a-37e4ccad815f/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8B%E1%85%B4-nettee-%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB-q60.avif?table=block&id=18701973-b23a-8081-95a5-e5dcc9fbf3b6&spaceId=f2636925-e81c-435b-900d-85ba6696597a&expirationTimestamp=1738022400000&signature=L6U4wGhst61x0E1ABwHsqjf00rXwXM19iqsNTmm8HHc" />
+  <img width="340" alt="왜 안 뜨누" align="left" src="https://file.notion.so/f/f/f2636925-e81c-435b-900d-85ba6696597a/b84a6858-e2e1-4555-8c2a-37e4ccad815f/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8B%E1%85%B4-nettee-%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB-q60.avif?table=block&id=18701973-b23a-8081-95a5-e5dcc9fbf3b6&spaceId=f2636925-e81c-435b-900d-85ba6696597a&expirationTimestamp=1738454400000&signature=LquqSpSw4fwKyTC2WSaywl0GqRWjtNhqpmheC0hRBOc" />
 </a>
 
 <table border="3">
