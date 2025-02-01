@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 
 - [2024 NIST 비밀번호 가이드라인](https://blog.letsdev.me/nist-password-guidelines-2024-kor)  
   _2024 NIST Password Guidelines_
-- [무지막지 지연되는 비밀번호 히스토리 관리와 재사용 방지, 가볍고 빠르고 안전하게 개선하기](https://blog.letsdev.me/password-history-kor)  
+- [무지막지 지연되는 비밀번호 히스토리와 재사용 방지, 가볍고 빠르고 안전하게 개선하기](https://blog.letsdev.me/password-history-kor)  
   _Severe Delays in Password History & Reuse Prevention: Achieving a Lightweight, Fast, and Secure Solution_  
   _Long Read ⏳ 10 min+, still writing_
 - [비밀번호 단방향 암호화: 사이트를 만드는 누구나 당신의 비밀번호를 볼 수 있다면 - 가변솔트와 반복해싱, 페퍼링 등](https://blog.letsdev.me/password-encryption-concept-kor)  
