@@ -98,6 +98,7 @@ Here are some ideas to get you started:
 **Common Mistakes in Authentication**
 
 - [JWT 인증에서 오해하는 것들](https://blog.letsdev.me/concept-jwt-authentication-1-kor)  
+  _What do you misunderstand about the JWT Authentication?_  
   _Long Read ⏳ 10 min+_
 - [이메일 인증에서 오해하는 것들](https://blog.letsdev.me/email-otp)  
   _Mail services DO NOT guarantee secure transmissions._  
