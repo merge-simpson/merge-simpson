@@ -116,7 +116,8 @@ Here are some ideas to get you started:
 
 **Software Architecture**
 
-[헥사고날 아키텍처 시놉시스](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)
+- [헥사고날 아키텍처 시놉시스](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)  
+  _Hexagonal Architecture Synopsis_
 
 <!--
 ---
