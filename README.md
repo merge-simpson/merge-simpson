@@ -248,22 +248,26 @@ See: https://nettee.notion.site/introduction
 
 </details>
 -->
-<details>
-  <summary><strong>+ 🔑 백엔드: 한층 한층 단단한 인증</strong></summary><br />
 
-- ✅ **_JWT 오해 제거_**  
-  당신이 알고 있는 JWT, OAuth! 정말 오해는 없는 걸까요?  
-  취약성을 진단하며, 안전성을 강화합니다.  
-- ✅ **_지연되는 비밀번호 재사용 방지 개선_**  
-  무지막지 지연되는 비밀번호 히스토리 관리와 비밀번호 재사용 방지!  
-  가볍고 빠르게 개선해 봅니다.  
-- ✅ **_최신화된 비밀번호 정책_**  
-  사용자들의 비밀번호 생성 습관을 반영해서 암호의 안전성을 추구합니다!  
-- ✅ **_이메일 인증의 오해 제거_**  
-  SMS나 이메일로 OTP를 전달할 때, 경유하는 모든 서비스와 모든 통신 구간을 신뢰할 수 있을까요?  
-  중개 통신 구간을 신뢰하지 않아도, 사용자는 신뢰할 수 있도록 설계를 보강합니다.  
-- ✅ **_논의 가능한 배경지식 공유_**  
-  그리고 이런 논의가 가능하도록 배경 지식을 공유하고, 모두와 리서치하고 논의하며 탄탄히 해 봅니다!  
+<details>
+  <summary><strong>+ :octocat: 협업: 의미 있는 깃허브 협업 구조 만들기</strong></summary> <br />
+
+<table>
+  <tr height="30px">
+    <td>
+      ℹ️ &nbsp;&nbsp;지금은 이슈 내에서 논의와 질문을 작성하고 있어요.<br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Discussions 탭은 다음 단계 레포지터리(멀티모듈)에서 도입을 논의합니다!
+    </td>
+  </tr>
+</table>
+
+- **LABELS**:[한 눈에 보이는 깃허브 레포지터리 Labels 목록 고안하기](https://github.com/nettee-space/backend-sample-hexagonal-simple-crud/labels)
+- **PULL REQUEST**: [팀원들과 PR 및 코드리뷰 적응기: Driving Adapter 및 관련 테스트 코드 PR 사례](https://github.com/nettee-space/backend-sample-hexagonal-simple-crud/pull/24)
+- **DISCUSSION ISSUE**: [헥사고날 아키텍처에서 Domain의 Status와 JPA Entity의 Status를 서로 나누어서 관리하는 게 좋을까요?](https://github.com/nettee-space/backend-sample-hexagonal-simple-crud/issues/22#issuecomment-2582121840)
+- **TROUBLE SHOOTING**: [JPA 테스트에서 시간 컬럼의 정밀도 이슈: 단계적인 해결책 제시](https://nettee.notion.site/jpa-test-auditing-precision)
+- **TROUBLE SHOOTING**: [JPA + Kotest에서 원하는 테스트에만 적용할 수 있도록 격리한 공통 설정 관리](https://nettee.notion.site/jpa-test-config)
+
+---
 
 </details>
 
@@ -314,22 +318,21 @@ See: https://nettee.notion.site/introduction
 </details>
 
 <details>
-  <summary><strong>+ :octocat: 협업: 의미 있는 깃허브 협업 구조 만들기</strong></summary> <br />
+  <summary><strong>+ 🔑 백엔드: 한층 한층 단단한 인증</strong></summary><br />
 
-<table>
-  <tr height="30px">
-    <td>
-      ℹ️ &nbsp;&nbsp;지금은 이슈 내에서 논의와 질문을 작성하고 있어요.<br />
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Discussions 탭은 다음 단계 레포지터리(멀티모듈)에서 도입을 논의합니다!
-    </td>
-  </tr>
-</table>
-
-- **LABELS**:[직관적으로 이해할 수 있는 깃허브 레포지터리 Labels 목록 고안하기](https://github.com/nettee-space/backend-sample-hexagonal-simple-crud/labels)
-- **PULL REQUEST**: [팀원들과 PR 및 코드리뷰 적응기: Driving Adapter 및 관련 테스트 코드 PR 사례](https://github.com/nettee-space/backend-sample-hexagonal-simple-crud/pull/24)
-- **DISCUSSION ISSUE**: [헥사고날 아키텍처에서 Domain의 Status와 JPA Entity의 Status를 서로 나누어서 관리하는 게 좋을까요?](https://github.com/nettee-space/backend-sample-hexagonal-simple-crud/issues/22#issuecomment-2582121840)
-- **TROUBLE SHOOTING**: [JPA 테스트에서 시간 컬럼의 정밀도 이슈: 단계적인 해결책 제시](https://nettee.notion.site/jpa-test-auditing-precision)
-- **TROUBLE SHOOTING**: [JPA + Kotest에서 원하는 테스트에만 적용할 수 있도록 격리한 공통 설정 관리](https://nettee.notion.site/jpa-test-config)
+- ✅ **_JWT 오해 제거_**  
+  당신이 알고 있는 JWT, OAuth! 정말 오해는 없는 걸까요?  
+  취약성을 진단하며, 안전성을 강화합니다.  
+- ✅ **_지연되는 비밀번호 재사용 방지 개선_**  
+  무지막지 지연되는 비밀번호 히스토리 관리와 비밀번호 재사용 방지!  
+  가볍고 빠르게 개선해 봅니다.  
+- ✅ **_최신화된 비밀번호 정책_**  
+  사용자들의 비밀번호 생성 습관을 반영해서 암호의 안전성을 추구합니다!  
+- ✅ **_이메일 인증의 오해 제거_**  
+  SMS나 이메일로 OTP를 전달할 때, 경유하는 모든 서비스와 모든 통신 구간을 신뢰할 수 있을까요?  
+  중개 통신 구간을 신뢰하지 않아도, 사용자는 신뢰할 수 있도록 설계를 보강합니다.  
+- ✅ **_논의 가능한 배경지식 공유_**  
+  그리고 이런 논의가 가능하도록 배경 지식을 공유하고, 모두와 리서치하고 논의하며 탄탄히 해 봅니다!  
 
 </details>
 
