@@ -264,7 +264,7 @@ See: https://nettee.notion.site/introduction
   <summary><strong>+ 😎 백엔드: 협업으로 만들어 가는 의미 있는 아키텍처</strong></summary><br />
 
   <table>
-    <tr height="200px">
+    <tr height="190px">
       <td>
         <p>
           백엔드 팀은 세 단계의 레포지터리를 기존 멤버 및 미래의 멤버에게 소개합니다.<br />
