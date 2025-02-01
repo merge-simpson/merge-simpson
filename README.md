@@ -157,8 +157,8 @@ Here are some ideas to get you started:
 > 해결중심적인 60%의 현업자와 40%의 신입 지망생 21명이 함께하는  
 > **롱텀 사이드 프로젝트**입니다.  
 
-- [introduction](https://nettee.notion.site/introduction)
-- [organization](https://github.com/nettee-space)
+[![notion icon padded](https://github.com/user-attachments/assets/0fe3b7c3-0e11-4d1b-9302-67cd77c73cfc) introduction](https://nettee.notion.site/introduction)
+[:octocat: organization](https://github.com/nettee-space)
 
 <details>
   <summary><h4>💬 말풍선 UI를 담아 낸, 쉽고 전달력 있는 글쓰기</h4></summary>
