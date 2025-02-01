@@ -263,29 +263,43 @@ See: https://nettee.notion.site/introduction
 <details>
   <summary><strong>+ 😎 백엔드: 협업으로 만들어 가는 의미 있는 아키텍처</strong></summary><br />
 
-백엔드 팀은 헥사고날 아키텍처와 멀티모듈 프로젝트를 담아, 세 단계의 레포지터리를 기존 멤버 및 미래의 멤버에게 소개합니다.  
-엇, '오버스펙'으로 보이는 것들이 있나요?  
-
-- 경험자의 노하우와 참신한 모두의 아이디어를 모아서, 지속 가능한 멀티모듈 프로젝트가 뭔지 보여 드릴게요.
-- 새 기술의 도입이 기존 소스 코드에 영향을 주지 않도록 설계해서, 탄력적으로 참여하는 협업 구조에 맞춥니다!
-- 우리는 탐구적인 스터디예요. 따라하기 바쁘기보다, 나아갈 수 있도록 개선책을 찾는 것을 좋아합니다!
+  <table>
+    <tr height="200px">
+      <td>
+        <p>
+          백엔드 팀은 세 단계의 레포지터리를 기존 멤버 및 미래의 멤버에게 소개합니다.<br />
+          <strong>엇, '오버스펙'으로 보이는 것들이 있나요? 🧐</strong>
+        </p>
+        <ul>
+          <li>
+            <strong><em>경험자의 노하우와</em></strong> 참신한 아이디어를 모아서, 지속 가능한 멀티모듈 프로젝트가 뭔지 보여 드릴게요.
+          </li>
+          <li>
+            <strong><em>새 기술의</em></strong> 도입이 <strong><em>기존 소스 코드에 영향을 주지 않도록</em></strong> 설계해서, 탄력적으로 참여하는 협업 구조에 맞춥니다!
+          </li>
+          <li>
+            우리는 탐구적인 스터디예요. 따라하기 바쁘기보다, 나아갈 수 있도록 개선책을 찾는 것을 좋아합니다!
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 
 <!--
 - 모방하는 데 그치지 않고 작업 편의를 갖추는 전략을 갖고 있습니다!
 -->
 
-**_"🤔 It makes sence to me!"_**
+> **🤔 It makes sence to me!**  
+> 그래서 저희는 배경지식의 차이를 좁히고 단계적으로 적응할 수 있는 레포지터리를 준비하고 있습니다.
 
-그래서 저희는 배경지식의 차이를 좁히고 단계적으로 적응할 수 있는 레포지터리를 준비하고 있습니다.
-
-1. Layered Architecture (Simple CRUD)  
+1. :octocat: **Layered Architecture** (Simple CRUD)  
     - 기본 CRUD 적응이면서도, 의외로 현업자에게도 낯설지 모르는 몇 가지 작업 방식에 초점을 둡니다.
     - 이 단계에서는 복잡한 설계나 복잡한 코드의 많은 부분을 생략하고, 오로지 구조 이해를 돕는 데 집중합니다.
 
-2. Hexagonal Architecture (Team works)
+2. :octocat: **Hexagonal Architecture** (Team works)  
     - 각 계층의 역할에 대한 이해와 오해! 그중 핵심적인 부분을 공유하며 서로의 생각을 진단합니다.
 
-3. Multimodule Project with Hexagonal Architecture (Team works)
+3. :octocat: **Multimodule Project with Hexagonal Architecture** (Team works)  
    - 본격적인 협업 코드 스타일을 담아 내는 프로젝트입니다! 과연 이전 헥사고날 아키텍처의 원형을 유지할까요? 😉  
 
 ---
