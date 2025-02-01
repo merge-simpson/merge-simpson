@@ -289,8 +289,8 @@ See: https://nettee.notion.site/introduction
 - 모방하는 데 그치지 않고 작업 편의를 갖추는 전략을 갖고 있습니다!
 -->
 
-> **🤔 It makes sence to me!**  
-> 그래서 저희는 배경지식의 차이를 좁히고 단계적으로 적응할 수 있는 레포지터리를 준비하고 있습니다.
+> **_It makes sence to me!_ 🤔**  
+> 그래서 우리는 배경지식의 차이를 좁히고 단계적으로 적응할 수 있는 레포지터리를 준비하고 있습니다.
 
 1. :octocat: **Layered Architecture** (Simple CRUD)  
     - 기본 CRUD 적응이면서도, 의외로 현업자에게도 낯설지 모르는 몇 가지 작업 방식에 초점을 둡니다.
