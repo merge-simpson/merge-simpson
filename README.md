@@ -299,11 +299,11 @@ See: https://nettee.notion.site/introduction
 > **_It makes sence to me!_ 🤔**  
 > 그래서 우리는 배경지식의 차이를 좁히고 단계적으로 적응할 수 있는 레포지터리를 준비하고 있습니다.
 
-1. :octocat: **Layered Architecture** (Simple CRUD)  
+1. :octocat: [**Layered Architecture**](https://github.com/nettee-space/backend-sample-layered-simple-crud) (Simple CRUD)  
     - 기본 CRUD 적응이면서도, 의외로 현업자에게도 낯설지 모르는 몇 가지 작업 방식에 초점을 둡니다.
     - 이 단계에서는 복잡한 설계나 복잡한 코드의 많은 부분을 생략하고, 오로지 구조 이해를 돕는 데 집중합니다.
 
-2. :octocat: **Hexagonal Architecture** (Team works)  
+2. :octocat: [**Hexagonal Architecture**](https://github.com/nettee-space/backend-sample-hexagonal-simple-crud) (Team works)  
     - 각 계층의 역할에 대한 이해와 오해! 그중 핵심적인 부분을 공유하며 서로의 생각을 진단합니다.
 
 3. :octocat: **Multimodule Project with Hexagonal Architecture** (Team works)  
