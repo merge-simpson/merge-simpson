@@ -113,8 +113,8 @@ Here are some ideas to get you started:
 
 [헥사고날 아키텍처 시놉시스](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)
 
----
 <!--
+---
 **Common Mistakes in Authentication**
 
 - [What do you misunderstand about the JWT Authentication? (Kor)](https://blog.letsdev.me/concept-jwt-authentication-1-kor)  
