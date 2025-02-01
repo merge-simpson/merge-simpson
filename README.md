@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 
 **Common Mistakes in Authentication**
 
-- [JWT 인증에서 오해하는 것들](https://blog.letsdev.me/concept-jwt-authentication-1-kor)  
+- [JWT 인증에서 오해하는 것들](https://blog.letsdev.me/jwt-authentication)  
   ‹_What Do You Misunderstand about The JWT Authentication?_›  
   _Long Read ⏳ 10 min+_
 - [이메일 인증에서 오해하는 것들](https://blog.letsdev.me/email-otp)  
