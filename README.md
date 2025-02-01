@@ -42,7 +42,7 @@
 
 - **한국어** 및 **일본어(日本語)로** 소통합니다!  
   _Communicate in **Korean 🇰🇷** and **Japanese 🇯🇵**_  
-- 커뮤니티에서 멘토링으로 재능을 기부하고 있습니다!  
+- 커뮤니티에서 멘토링으로 **재능을 기부하고** 있습니다!  
   _Contributing to the community by offering mentorship_  
 - 매너 있고 다정한 젊은 남자 개발자입니다...^^ (넣을 문구 추천받읍니다...^^)  
   _Manner makes developer_ 😎  
@@ -105,15 +105,17 @@ Here are some ideas to get you started:
 
 **당신이 JWT 인증에서 오해하는 것들**
 
-(긴 글) [What do you misunderstand about the JWT Authentication?](https://blog.letsdev.me/concept-jwt-authentication-1-kor)
+- [What do you misunderstand about the JWT Authentication?](https://blog.letsdev.me/concept-jwt-authentication-1-kor)  
+  _Long Read ⏳ 10 min+_
 
 **비밀번호 관리하기**
 
 - [2024 NIST 비밀번호 가이드라인](https://blog.letsdev.me/nist-password-guidelines-2024-kor)
-- (긴 글) [무지막지 지연되는 비밀번호 히스토리 관리와 재사용 방지, 가볍고 빠르고 안전하게 개선하기](https://blog.letsdev.me/password-history-kor)
-- [비밀번호 단방향 암호화: 사이트를 만드는 누구나 당신의 비밀번호를 볼 수 있다면 - 가변솔트와 반복해싱, 페퍼링 등](https://blog.letsdev.me/password-encryption-concept-kor)
+- [무지막지 지연되는 비밀번호 히스토리 관리와 재사용 방지, 가볍고 빠르고 안전하게 개선하기](https://blog.letsdev.me/password-history-kor)  
+  _Long Read ⏳ 10 min+, still writing_
+- [비밀번호 단방향 암호화: 사이트를 만드는 누구나 당신의 비밀번호를 볼 수 있다면 - 가변솔트와 반복해싱, 페퍼링 등](https://blog.letsdev.me/password-encryption-concept-kor)  
 
-**헥사고날 아키텍처**
+**Software Architecture**
 
 [헥사고날 아키텍처 시놉시스](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)
 
@@ -286,4 +288,5 @@ See: https://nettee.notion.site/introduction
   
 </details>
 -->
+
 기섭닷콤(github.com) 프로필은 공사 중입니다...^^
