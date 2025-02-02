@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 - [무지막지 지연되는 비밀번호 재사용 방지, 가볍고 빠르고 안전하게 개선하기](https://blog.letsdev.me/password-history-kor)  
   ‹_Severe Delays in Password History & Reuse Prevention: Achieving a Lightweight, Fast, and Secure Solution_›  
   _Long Read ⏳ 10 min+, still writing_
-- [비밀번호 단방향 암호화: 사이트를 만드는 누구나 당신의 비밀번호를 볼 수 있다면 - 가변솔트와 반복해싱, 페퍼링 등](https://blog.letsdev.me/password-encryption-concept-kor)  
+- [비밀번호 단방향 암호화: 사이트를 만드는 누구나 당신의 비밀번호를 볼 수 있다면](https://blog.letsdev.me/password-encryption-concept-kor)  
   ‹_One-Way Password Encryption: If Anyone Building Their Own Site Can See Your Password_›  
   _Long Read ⏳ 10 min+_
 
