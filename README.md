@@ -3,7 +3,7 @@
 <table>
   <tr>
     <th>JOB 🚫</th>
-    <td>I'm <b>not</b> seeking employment, yet. 👍</td>
+    <td>I'm <b>NOT</b> seeking employment, <b>YET</b>. 👍</td>
   </tr>
   <tr></tr>
   <tr>
