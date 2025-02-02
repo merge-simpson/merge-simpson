@@ -49,7 +49,10 @@
 🧑🏻‍💻 커머스 스타트업(이커머스 플랫폼)의 초기 시스템 전반 구축을 리드한 경험이 있습니다.  
 🧑🏻‍💻 20년 이상 업력이 있는 콘텐츠 기업의 차기 SSO 시스템 초기 설계를 담당하고, 아키텍처 리서치, 로그·통계 리서치 등을 했습니다.  
 
-                    <!-- 바이올린소나타 님: 안 좋게 보이기보단, 조금 더 구체적으로 알고 싶다. -->
+<!--
+                    **COMMENT**
+                    바이올린소나타 님: 안 좋게 보이기보단, 조금 더 구체적으로 알고 싶다.
+-->
 
 ### Sponsorship
 
@@ -68,18 +71,18 @@
 <br />
 
 <!--
-**merge-simpson/merge-simpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+                    **merge-simpson/merge-simpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                    
+                    Here are some ideas to get you started:
+                    
+                    - 🔭 I’m currently working on ...
+                    - 🌱 I’m currently learning ...
+                    - 👯 I’m looking to collaborate on ...
+                    - 🤔 I’m looking for help with ...
+                    - 💬 Ask me about ...
+                    - 📫 How to reach me: ...
+                    - 😄 Pronouns: ...
+                    - ⚡ Fun fact: ...
 -->
 
 <br />
@@ -122,25 +125,26 @@ Here are some ideas to get you started:
   [![HOT-LABEL](https://github.com/user-attachments/assets/4ce99f9f-f7b9-494f-b6cc-0788142e0507)](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)  
   ‹_Hexagonal Architecture Synopsis_›
 
-                    <!--
+<!--
+                    **COMMENT**
                     ---
                     **Common Mistakes in Authentication**
                     
                     - [What do you misunderstand about the JWT Authentication? (Kor)](https://blog.letsdev.me/concept-jwt-authentication-1-kor)  
-                      _Long Read ⏳ 10 min+_
+                    _Long Read ⏳ 10 min+_
                     - [Mail services DO NOT guarantee secure transmissions.](https://blog.letsdev.me/email-otp)  
                     
                     **Managing User Passwords**
                     
                     - [2024 NIST 비밀번호 가이드라인](https://blog.letsdev.me/nist-password-guidelines-2024-kor)
                     - [Severe Delays in Password History & Reuse Prevention: Achieving a Lightweight, Fast, and Secure Solution](https://blog.letsdev.me/password-history-kor)  
-                      _Long Read ⏳ 10 min+, still writing_
+                    _Long Read ⏳ 10 min+, still writing_
                     - [비밀번호 단방향 암호화: 사이트를 만드는 누구나 당신의 비밀번호를 볼 수 있다면 - 가변솔트와 반복해싱, 페퍼링 등](https://blog.letsdev.me/password-encryption-concept-kor)  
                     
                     **Software Architecture**
                     
                     [헥사고날 아키텍처 시놉시스](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)
-                    -->
+-->
 <br />
 <br />
 
@@ -219,7 +223,8 @@ See: https://nettee.notion.site/introduction
 
 </details>
 
-                    <!--
+<!--
+                    **COMMENT**
                     
                     <details>
                       <summary><h4>🤔 어떤 문제를 해결할까요?</h4></summary>
@@ -250,7 +255,7 @@ See: https://nettee.notion.site/introduction
                       > 나은 기술에 대한 논의가, 스터디 동료에게 상처를 주어도 될 만큼 가치 있는 건 아니라고 생각합니다! 😘
                     
                     </details>
-                    -->
+-->
 
 <details>
   <summary>
@@ -306,9 +311,10 @@ See: https://nettee.notion.site/introduction
     </tr>
   </table>
 
-                    <!--
+<!--
+                    **COMMENT**
                     - 모방하는 데 그치지 않고 작업 편의를 갖추는 전략을 갖고 있습니다!
-                    -->
+-->
 
 > **_It makes sence to me!_ 🤔**  
 > 그래서 우리는 배경지식의 차이를 좁히고 단계적으로 적응할 수 있는 레포지터리를 준비하고 있습니다.
@@ -346,8 +352,8 @@ See: https://nettee.notion.site/introduction
 
 </details>
 
-                    <!--
-                    
+<!--
+                    **COMMENT**
                     <details>
                       <summary><h3>협업으로 만들어 가는 단계적인 아키텍처 리서치 레포지터리</h3></summary>
                     
@@ -362,7 +368,7 @@ See: https://nettee.notion.site/introduction
                     - [이슈: Domain BoardStatus와 JPA Entity BoardStatus를 서로 나누어야 합니까?](https://github.com/nettee-space/backend-sample-hexagonal-simple-crud/issues/22#issuecomment-2582121840)
                       
                     </details>
-                    -->
+-->
 
 <br />
 
