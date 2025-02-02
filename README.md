@@ -334,6 +334,8 @@ See: https://nettee.notion.site/introduction
 - ✅ **_논의 가능한 배경지식 공유_**  
   그리고 이런 논의가 가능하도록 배경 지식을 공유하고, 모두와 리서치하고 논의하며 탄탄히 해 봅니다!  
 
+---
+
 </details>
 
 <!--
