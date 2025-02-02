@@ -19,7 +19,7 @@
 > 팀의 비전을 관찰하고, 함께 나은 방향을 찾아 가기 위해 👀
 
 <div width="1000px" align="left">
-  <table border="3">
+  <table border="1">
     <tr>
       <td width="75" align="center">🚀</td>
       <td height="75">
