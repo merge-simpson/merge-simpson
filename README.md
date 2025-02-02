@@ -366,7 +366,10 @@ See: https://nettee.notion.site/introduction
 
 ---
 
+<br />
 <h3 align="center">Contact Me.</h3>
+<br />
+<br />
 
 <div align="center">
   <a href="https://blog.letsdev.me">
@@ -379,3 +382,4 @@ See: https://nettee.notion.site/introduction
     <img alt="KakaoTalk Open Chat" src="https://img.shields.io/badge/KakaoTalk-FEE500?style=for-the-badge&logo=gmail&logoColor=FEE500&labelColor=000000" />
   </a>
 </div>
+<br />
