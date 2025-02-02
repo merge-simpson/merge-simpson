@@ -97,7 +97,8 @@ Here are some ideas to get you started:
 
 **Common Mistakes in Authentication**
 
-- [JWT 인증에서 오해하는 것들](https://blog.letsdev.me/jwt-authentication)  
+- [JWT 인증에서 오해하는 것들](https://blog.letsdev.me/jwt-authentication)
+  ![HOT-LABEL](https://github.com/user-attachments/assets/4ce99f9f-f7b9-494f-b6cc-0788142e0507)  
   ‹_What Do You Misunderstand about The JWT Authentication?_›  
   _Long Read ⏳ 10 min+_
 - [이메일 인증에서 오해하는 것들](https://blog.letsdev.me/email-otp) [![NEW-ICON-SVG](https://github.com/user-attachments/assets/09f63d26-a6f5-4656-8018-8162d9da1fbf)](https://blog.letsdev.me/email-otp)  
@@ -116,7 +117,8 @@ Here are some ideas to get you started:
 
 **Software Architecture**
 
-- [헥사고날 아키텍처 시놉시스](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)  
+- [헥사고날 아키텍처 시놉시스](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)
+  ![HOT-LABEL](https://github.com/user-attachments/assets/4ce99f9f-f7b9-494f-b6cc-0788142e0507)  
   ‹_Hexagonal Architecture Synopsis_›
 
 <!--
