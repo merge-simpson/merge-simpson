@@ -49,7 +49,7 @@
 🧑🏻‍💻 커머스 스타트업(이커머스 플랫폼)의 초기 시스템 전반 구축을 리드한 경험이 있습니다.  
 🧑🏻‍💻 20년 이상 업력이 있는 콘텐츠 기업의 차기 SSO 시스템 초기 설계를 담당하고, 아키텍처 리서치, 로그·통계 리서치 등을 했습니다.  
 
-<!-- 바이올린소나타 님: 안 좋게 보이기보단, 조금 더 구체적으로 알고 싶다. -->
+                    <!-- 바이올린소나타 님: 안 좋게 보이기보단, 조금 더 구체적으로 알고 싶다. -->
 
 ### Sponsorship
 
@@ -122,25 +122,25 @@ Here are some ideas to get you started:
   [![HOT-LABEL](https://github.com/user-attachments/assets/4ce99f9f-f7b9-494f-b6cc-0788142e0507)](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)  
   ‹_Hexagonal Architecture Synopsis_›
 
-<!--
----
-**Common Mistakes in Authentication**
-
-- [What do you misunderstand about the JWT Authentication? (Kor)](https://blog.letsdev.me/concept-jwt-authentication-1-kor)  
-  _Long Read ⏳ 10 min+_
-- [Mail services DO NOT guarantee secure transmissions.](https://blog.letsdev.me/email-otp)  
-
-**Managing User Passwords**
-
-- [2024 NIST 비밀번호 가이드라인](https://blog.letsdev.me/nist-password-guidelines-2024-kor)
-- [Severe Delays in Password History & Reuse Prevention: Achieving a Lightweight, Fast, and Secure Solution](https://blog.letsdev.me/password-history-kor)  
-  _Long Read ⏳ 10 min+, still writing_
-- [비밀번호 단방향 암호화: 사이트를 만드는 누구나 당신의 비밀번호를 볼 수 있다면 - 가변솔트와 반복해싱, 페퍼링 등](https://blog.letsdev.me/password-encryption-concept-kor)  
-
-**Software Architecture**
-
-[헥사고날 아키텍처 시놉시스](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)
--->
+                    <!--
+                    ---
+                    **Common Mistakes in Authentication**
+                    
+                    - [What do you misunderstand about the JWT Authentication? (Kor)](https://blog.letsdev.me/concept-jwt-authentication-1-kor)  
+                      _Long Read ⏳ 10 min+_
+                    - [Mail services DO NOT guarantee secure transmissions.](https://blog.letsdev.me/email-otp)  
+                    
+                    **Managing User Passwords**
+                    
+                    - [2024 NIST 비밀번호 가이드라인](https://blog.letsdev.me/nist-password-guidelines-2024-kor)
+                    - [Severe Delays in Password History & Reuse Prevention: Achieving a Lightweight, Fast, and Secure Solution](https://blog.letsdev.me/password-history-kor)  
+                      _Long Read ⏳ 10 min+, still writing_
+                    - [비밀번호 단방향 암호화: 사이트를 만드는 누구나 당신의 비밀번호를 볼 수 있다면 - 가변솔트와 반복해싱, 페퍼링 등](https://blog.letsdev.me/password-encryption-concept-kor)  
+                    
+                    **Software Architecture**
+                    
+                    [헥사고날 아키텍처 시놉시스](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)
+                    -->
 <br />
 <br />
 
@@ -167,7 +167,7 @@ Here are some ideas to get you started:
   <summary><h4>💬 말풍선 UI를 담아 낸, 쉽고 전달력 있는 글쓰기</h4></summary>
 
 <a href="https://nettee.notion.site/introduction">
-  <img width="340" alt="왜 안 뜨누" align="left" src="https://file.notion.so/f/f/f2636925-e81c-435b-900d-85ba6696597a/b84a6858-e2e1-4555-8c2a-37e4ccad815f/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8B%E1%85%B4-nettee-%E1%84%8E%E1%85%AE%E1%84%8E%E1%85%A5%E1%86%AB-q60.avif?table=block&id=18701973-b23a-8081-95a5-e5dcc9fbf3b6&spaceId=f2636925-e81c-435b-900d-85ba6696597a&expirationTimestamp=1738454400000&signature=LquqSpSw4fwKyTC2WSaywl0GqRWjtNhqpmheC0hRBOc" />
+  <img width="340" alt="요식업 컨설팅을 잘할 것 같은 사람과 말풍선 채팅으로 대화하는 모습으로, 이 말풍선 채팅처럼 글을 쓸 수 있는 블로그가 없을까 할 때 그게 네티라는 응답을 받고 있는 사진" align="left" src="https://i.ibb.co/9kVFjvgw/image.jpg" />
 </a>
 
 <table border="3">
@@ -219,38 +219,38 @@ See: https://nettee.notion.site/introduction
 
 </details>
 
-<!--
-
-<details>
-  <summary><h4>🤔 어떤 문제를 해결할까요?</h4></summary>
-
-우리의 가치를 드러내는 게 진짜 목적이에요!  
-만드는 데 급급하기보다, 우리가 성장하고 그 결과를 보여 주어야 합니다!  
-
----
-
-**🌱 함께하는 목적을 잃지 않기**
-
-<table>
-  <tr>
-    <td>
-      <span>Nettee의 취지는 크로스 멘토링입니다!</span><br />
-      <strong><em>실력차가 있더라도 서로 탓하기보다 부족한 부분을 채워 줄 수 있는 환경을 제공하고 싶습니다.</em></strong>
-    </td>
-  </tr>
-</table>
-
-- **참여하고 싶은 파트를 자유롭게 선택합니다!**  
-  > 한 분야의 **스페셜리스트로** 성장하면서 **제너럴리스트로** 성장할 수 있게, 내가 참여할 파트를 스스로 선택해 기여합니다.  
-- **롱텀 프로젝트! 원하는 기간(파트)을 약속하고 참여할 수 있습니다.**  
-  > 지속적으로 발전 가능한 프로젝트를 추구합니다. 기능 개발과 더불어, 운영 과정에서 발생하는 이슈들을 경험하고 능동적으로 문제 해결에 참여할 수 있습니다.  
-- **서로의 작업 속도에 눈치를 주면 안 됩니다!**  
-  > 적극적으로 기여하는 만큼 나의 성장으로 이어집니다! 따라서 타인에게 눈치를 주지 않아도 되는 구조입니다.  
-- **베스트 프랙티스보다 베스트 팀워크를 지향합니다!**  
-  > 나은 기술에 대한 논의가, 스터디 동료에게 상처를 주어도 될 만큼 가치 있는 건 아니라고 생각합니다! 😘
-
-</details>
--->
+                    <!--
+                    
+                    <details>
+                      <summary><h4>🤔 어떤 문제를 해결할까요?</h4></summary>
+                    
+                    우리의 가치를 드러내는 게 진짜 목적이에요!  
+                    만드는 데 급급하기보다, 우리가 성장하고 그 결과를 보여 주어야 합니다!  
+                    
+                    ---
+                    
+                    **🌱 함께하는 목적을 잃지 않기**
+                    
+                    <table>
+                      <tr>
+                        <td>
+                          <span>Nettee의 취지는 크로스 멘토링입니다!</span><br />
+                          <strong><em>실력차가 있더라도 서로 탓하기보다 부족한 부분을 채워 줄 수 있는 환경을 제공하고 싶습니다.</em></strong>
+                        </td>
+                      </tr>
+                    </table>
+                    
+                    - **참여하고 싶은 파트를 자유롭게 선택합니다!**  
+                      > 한 분야의 **스페셜리스트로** 성장하면서 **제너럴리스트로** 성장할 수 있게, 내가 참여할 파트를 스스로 선택해 기여합니다.  
+                    - **롱텀 프로젝트! 원하는 기간(파트)을 약속하고 참여할 수 있습니다.**  
+                      > 지속적으로 발전 가능한 프로젝트를 추구합니다. 기능 개발과 더불어, 운영 과정에서 발생하는 이슈들을 경험하고 능동적으로 문제 해결에 참여할 수 있습니다.  
+                    - **서로의 작업 속도에 눈치를 주면 안 됩니다!**  
+                      > 적극적으로 기여하는 만큼 나의 성장으로 이어집니다! 따라서 타인에게 눈치를 주지 않아도 되는 구조입니다.  
+                    - **베스트 프랙티스보다 베스트 팀워크를 지향합니다!**  
+                      > 나은 기술에 대한 논의가, 스터디 동료에게 상처를 주어도 될 만큼 가치 있는 건 아니라고 생각합니다! 😘
+                    
+                    </details>
+                    -->
 
 <details>
   <summary>
@@ -306,9 +306,9 @@ See: https://nettee.notion.site/introduction
     </tr>
   </table>
 
-<!--
-- 모방하는 데 그치지 않고 작업 편의를 갖추는 전략을 갖고 있습니다!
--->
+                    <!--
+                    - 모방하는 데 그치지 않고 작업 편의를 갖추는 전략을 갖고 있습니다!
+                    -->
 
 > **_It makes sence to me!_ 🤔**  
 > 그래서 우리는 배경지식의 차이를 좁히고 단계적으로 적응할 수 있는 레포지터리를 준비하고 있습니다.
@@ -346,23 +346,23 @@ See: https://nettee.notion.site/introduction
 
 </details>
 
-<!--
-
-<details>
-  <summary><h3>협업으로 만들어 가는 단계적인 아키텍처 리서치 레포지터리</h3></summary>
-
-다음처럼 세 단계 레포지터리를 ... 리서치
-
-1. Layered Architecture (Simple CRUD)
-2. Hexagonal Architecture (Team works)
-3. Multimodule Project with Hexagonal Architecture (Team works)
-
-주요 이슈
-
-- [이슈: Domain BoardStatus와 JPA Entity BoardStatus를 서로 나누어야 합니까?](https://github.com/nettee-space/backend-sample-hexagonal-simple-crud/issues/22#issuecomment-2582121840)
-  
-</details>
--->
+                    <!--
+                    
+                    <details>
+                      <summary><h3>협업으로 만들어 가는 단계적인 아키텍처 리서치 레포지터리</h3></summary>
+                    
+                    다음처럼 세 단계 레포지터리를 ... 리서치
+                    
+                    1. Layered Architecture (Simple CRUD)
+                    2. Hexagonal Architecture (Team works)
+                    3. Multimodule Project with Hexagonal Architecture (Team works)
+                    
+                    주요 이슈
+                    
+                    - [이슈: Domain BoardStatus와 JPA Entity BoardStatus를 서로 나누어야 합니까?](https://github.com/nettee-space/backend-sample-hexagonal-simple-crud/issues/22#issuecomment-2582121840)
+                      
+                    </details>
+                    -->
 
 <br />
 
@@ -384,4 +384,5 @@ See: https://nettee.notion.site/introduction
     <img alt="KakaoTalk Open Chat" src="https://img.shields.io/badge/KakaoTalk-FEE500?style=for-the-badge&logo=gmail&logoColor=FEE500&labelColor=000000" />
   </a>
 </div>
+<br />
 <br />
