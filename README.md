@@ -366,16 +366,16 @@ See: https://nettee.notion.site/introduction
 
 ---
 
+<h3 align="center">Contact Me.</h3>
+
 <div align="center">
   <a href="https://blog.letsdev.me">
-    <img alt="Hashnode Blog" src="https://img.shields.io/badge/Hashnode-Blog-2563eb?style=for-the-badge&logo=hashnode&logoColor=2563eb&labelColor=fafafa" />
+    <img alt="Hashnode Blog" src="https://img.shields.io/badge/Hashnode-Blog-2563eb?style=flat&logo=hashnode&logoColor=2563eb&labelColor=fafafa" />
   </a>
-  &nbsp;
-  <a href="https://open.kakao.com/me/typescript">
-    <img alt="KakaoTalk Open Chat" src="https://img.shields.io/badge/KakaoTalk-DM-FEE500?style=for-the-badge&logo=kakaotalk&logoColor=FEE500&labelColor=000000" />
-  </a>
-  &nbsp;
   <a href="mailto:letsdev@letsdev.me">
-    <img alt="Email to letsdev@letsdev.me" src="https://img.shields.io/badge/letsdev%40letsdev.me-Email-000000?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=f0f0f0" />
+    <img alt="Email to letsdev@letsdev.me" src="https://img.shields.io/badge/letsdev%40letsdev.me-Email-f0f0f0?style=flat&logo=gmail&logoColor=ffffff&labelColor=000000" />
+  </a>
+  <a href="https://open.kakao.com/me/typescript">
+    <img alt="KakaoTalk Open Chat" src="https://img.shields.io/badge/KakaoTalk-DM-FEE500?style=flat&logo=kakaotalk&logoColor=FEE500&labelColor=000000" />
   </a>
 </div>
