@@ -344,8 +344,6 @@ See: https://nettee.notion.site/introduction
 - ✅ **_논의 가능한 배경지식 공유_**  
   그리고 이런 논의가 가능하도록 배경 지식을 공유하고, 모두와 리서치하고 논의하며 탄탄히 해 봅니다!  
 
----
-
 </details>
 
 <!--
@@ -366,4 +364,14 @@ See: https://nettee.notion.site/introduction
 </details>
 -->
 
-기섭닷콤(github.com) 프로필은 공사 중입니다...^^
+---
+
+<div align="center">
+  <a href="https://blog.letsdev.me">
+    <img alt="Hashnode Blog" src="https://img.shields.io/badge/Hashnode-Blog-2563eb?style=for-the-badge&logo=hashnode&logoColor=2563eb&labelColor=ffffff" />
+  </a>
+  &nbsp;
+  <a href="https://open.kakao.com/me/typescript">
+    <img alt="KakaoTalk Open Chat" src="https://img.shields.io/badge/KakaoTalk-DM-FEE500?style=for-the-badge&logo=kakaotalk&logoColor=FEE500&labelColor=000000" />
+  </a>
+</div>
