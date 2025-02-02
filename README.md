@@ -38,7 +38,7 @@
 
 - **한국어** 및 **일본어(日本語)로** 소통합니다!  
   _Communicate in **Korean 🇰🇷** and **Japanese 🇯🇵**_  
-- 커뮤니티에서 멘토링으로 **재능을 기부하고** 있습니다!  
+- 멘토링으로 **커뮤니티에 재능을 기부하고** 있습니다!  
   _**Contributing to communities** by offering mentorship_  
 - 매너 있고 다정한 젊은 남자 개발자입니다...^^ (넣을 문구 추천받읍니다...^^)  
   _Manner makes developer_ 😎  
