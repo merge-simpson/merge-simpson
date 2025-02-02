@@ -100,12 +100,12 @@
 
 **Common Mistakes in Authentication**
 
-- [JWT 인증에서 오해하는 것들](https://blog.letsdev.me/jwt-authentication)
-  [![HOT-LABEL](https://github.com/user-attachments/assets/4ce99f9f-f7b9-494f-b6cc-0788142e0507)](https://blog.letsdev.me/jwt-authentication)  
+- [![HOT-LABEL](https://github.com/user-attachments/assets/4ce99f9f-f7b9-494f-b6cc-0788142e0507)](https://blog.letsdev.me/jwt-authentication)
+  [JWT 인증에서 오해하는 것들](https://blog.letsdev.me/jwt-authentication)  
   ‹_What Do You Misunderstand about The JWT Authentication?_›  
-  _Long Read ⏳ 10 min+_
-- [이메일 인증에서 오해하는 것들](https://blog.letsdev.me/email-otp)
-  [![NEW-ICON-SVG](https://github.com/user-attachments/assets/09f63d26-a6f5-4656-8018-8162d9da1fbf)](https://blog.letsdev.me/email-otp)  
+  **|** _Long Read ⏳ 10 min+_
+- [![NEW-ICON-SVG](https://github.com/user-attachments/assets/09f63d26-a6f5-4656-8018-8162d9da1fbf)](https://blog.letsdev.me/email-otp)
+  [이메일 인증에서 오해하는 것들](https://blog.letsdev.me/email-otp)  
   ‹_Mail Services DO NOT Guarantee Secure Transmissions._›  
 
 **사용자 비밀번호 관리하기**
@@ -113,17 +113,18 @@
 - [2024 NIST 비밀번호 가이드라인](https://blog.letsdev.me/nist-password-guidelines-2024-kor)  
   ‹_2024 NIST Password Guidelines_›
 - [무지막지 지연되는 비밀번호 재사용 방지, 가볍고 빠르고 안전하게 개선하기](https://blog.letsdev.me/password-history-kor)  
-  ‹_Severe Delays in Password History & Reuse Prevention: Achieving a Lightweight, Fast, and Secure Solution_›  
-  _Long Read ⏳ 10 min+, still writing_
+  ‹_Severe Delays in Password History & Reuse Prevention:  
+  Achieving a Lightweight, Fast, and Secure Solution_›  
+  **|** _Long Read ⏳ 10 min+, still writing_
 - [비밀번호 단방향 암호화: 사이트를 만드는 누구나 당신의 비밀번호를 볼 수 있다면](https://blog.letsdev.me/password-encryption-concept-kor)  
   ‹_One-Way Password Encryption: If Anyone Building Their Own Site Can See Your Password_›  
-  _Long Read ⏳ 10 min+_
+  **|** _Long Read ⏳ 10 min+_
 
 **Software Architecture**
 
-- [헥사고날 아키텍처 시놉시스](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)
-  [![HOT-LABEL](https://github.com/user-attachments/assets/4ce99f9f-f7b9-494f-b6cc-0788142e0507)](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)  
-  ‹_Hexagonal Architecture Synopsis_›
+- [![HOT-LABEL](https://github.com/user-attachments/assets/4ce99f9f-f7b9-494f-b6cc-0788142e0507)](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)
+  [헥사고날 아키텍처 시놉시스](https://blog.letsdev.me/hexagonal-architecture-synopsis-kor)  
+  ‹_Hexagonal Architecture Synopsis_›  
 
 <!--
                     **COMMENT**
@@ -257,12 +258,12 @@ See: https://nettee.notion.site/introduction
                     </details>
 -->
 
-<details>
+<details open>
   <summary>
     <strong>
       + :octocat: 협업: 의미 있는 깃허브 협업 구조 만들기
     </strong>
-    <a href="https://github.com/merge-simpson">
+    <a href="https://github.com/merge-simpson#-말풍선-ui를-담아-낸-쉽고-전달력-있는-글쓰기">
       <img alt="new icon as an SVG" src="https://github.com/user-attachments/assets/09f63d26-a6f5-4656-8018-8162d9da1fbf" />
     </a>
   </summary> <br />
