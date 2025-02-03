@@ -13,6 +13,7 @@
 </table>
 
 ## 안녕하세요 👋<br />달에서 온 개발자 Merge Simpson입니다! 🌕
+_I'm Merge Simpson, a developer from the moon._
 
 <br />
 
@@ -263,10 +264,11 @@ See: https://nettee.notion.site/introduction
     <strong>
       + :octocat: 협업: 의미 있는 깃허브 협업 구조 만들기
     </strong>
-    <a href="https://github.com/merge-simpson#-말풍선-ui를-담아-낸-쉽고-전달력-있는-글쓰기">
+    <a href="nettee-space-github-collaboration">
       <img alt="new icon as an SVG" src="https://github.com/user-attachments/assets/09f63d26-a6f5-4656-8018-8162d9da1fbf" />
     </a>
   </summary> <br />
+  <a name="nettee-space-github-collaboration"></a>
 
 <table>
   <tr height="30px">
@@ -376,7 +378,8 @@ See: https://nettee.notion.site/introduction
 ---
 
 <br />
-<h3 align="center">Contact Me.</h3>
+<h3 align="center">Look at Me.</h3>
+<p align="center"><em>Graduated from <a href="https://newtradecampus.kita.net/page/user_job_CloudIT_courseguide_outline">DSA Academy</a></em></p>
 <br />
 <br />
 
