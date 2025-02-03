@@ -12,7 +12,7 @@
 </table>
 
 ## 안녕하세요 👋<br />달에서 온 개발자 Merge Simpson입니다! 🌕
-:octocat: _See you on Earth!_
+:octocat:
 
 <br />
 
