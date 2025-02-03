@@ -1,5 +1,4 @@
-<!-- HTML preferred -->
-
+!-- HTML preferred -->
 <table>
   <tr>
     <th>JOB 🚫</th>
@@ -13,8 +12,7 @@
 </table>
 
 ## 안녕하세요 👋<br />달에서 온 개발자 Merge Simpson입니다! 🌕
-_Hi, I'm Merge Simpson!_
-<!-- _I'm Merge Simpson, a developer from the moon._ -->
+:octocat: _See you on Earth!_
 
 <br />
 
@@ -379,8 +377,13 @@ See: https://nettee.notion.site/introduction
 ---
 
 <br />
-<h3 align="center">Look at Me.</h3>
-<p align="center"><em>Graduated from <a href="https://newtradecampus.kita.net/page/user_job_CloudIT_courseguide_outline">DSA Academy</a></em></p>
+<h3 align="center">Look at Me. 👀<br />And Tell Me What You Want.</h3>
+<p align="center">
+  <em>Graduated from <a href="https://newtradecampus.kita.net/page/user_job_CloudIT_courseguide_outline">DSA Academy</a></em>
+  <a href="https://www.youtube.com/watch?v=xJ35tZcWGB8">
+    <img alt="Youtube icon, and anchor tag to a DSA short video" src="https://github.com/user-attachments/assets/c5a78869-51ed-4f36-9f6e-be64cd8d8f84" />
+  </a>
+</p>
 <br />
 <br />
 
