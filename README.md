@@ -1,4 +1,5 @@
 <!-- HTML preferred -->
+<br />
 <table>
   <tr>
     <th>JOB 🚫</th>
