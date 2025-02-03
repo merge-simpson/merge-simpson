@@ -264,7 +264,7 @@ See: https://nettee.notion.site/introduction
     <strong>
       + :octocat: 협업: 의미 있는 깃허브 협업 구조 만들기
     </strong>
-    <a href="nettee-space-github-collaboration">
+    <a href="#nettee-space-github-collaboration">
       <img alt="new icon as an SVG" src="https://github.com/user-attachments/assets/09f63d26-a6f5-4656-8018-8162d9da1fbf" />
     </a>
   </summary> <br />
