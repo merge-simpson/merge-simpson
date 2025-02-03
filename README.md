@@ -1,4 +1,4 @@
-!-- HTML preferred -->
+<!-- HTML preferred -->
 <table>
   <tr>
     <th>JOB 🚫</th>
@@ -380,8 +380,9 @@ See: https://nettee.notion.site/introduction
 <h3 align="center">Look at Me. 👀<br />And Tell Me What You Want.</h3>
 <p align="center">
   <em>Graduated from <a href="https://newtradecampus.kita.net/page/user_job_CloudIT_courseguide_outline">DSA Academy</a></em>
+  
   <a href="https://www.youtube.com/watch?v=xJ35tZcWGB8">
-    <img alt="Youtube icon, and anchor tag to a DSA short video" src="https://github.com/user-attachments/assets/c5a78869-51ed-4f36-9f6e-be64cd8d8f84" />
+    <img alt="Youtube icon, and anchor tag to a DSA short video" src="https://github.com/user-attachments/assets/4868d2f8-dc59-45d0-8eb6-0c5a7a95c223" />
   </a>
 </p>
 <br />
