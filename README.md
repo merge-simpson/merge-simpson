@@ -13,7 +13,8 @@
 </table>
 
 ## 안녕하세요 👋<br />달에서 온 개발자 Merge Simpson입니다! 🌕
-_I'm Merge Simpson, a developer from the moon._
+_Hi, I'm Merge Simpson!_
+<!-- _I'm Merge Simpson, a developer from the moon._ -->
 
 <br />
 
@@ -259,6 +260,7 @@ See: https://nettee.notion.site/introduction
                     </details>
 -->
 
+<a name="nettee-space-github-collaboration"></a>
 <details open>
   <summary>
     <strong>
@@ -268,7 +270,6 @@ See: https://nettee.notion.site/introduction
       <img alt="new icon as an SVG" src="https://github.com/user-attachments/assets/09f63d26-a6f5-4656-8018-8162d9da1fbf" />
     </a>
   </summary> <br />
-  <a name="nettee-space-github-collaboration"></a>
 
 <table>
   <tr height="30px">
