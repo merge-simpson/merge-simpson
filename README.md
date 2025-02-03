@@ -1,5 +1,5 @@
 <!-- HTML preferred -->
-<br />
+<img width="80" align="right" src="https://github.com/images/mona-whisper.gif" />
 <table>
   <tr>
     <th>JOB 🚫</th>
