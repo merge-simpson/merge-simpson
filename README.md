@@ -301,10 +301,10 @@ See: https://nettee.notion.site/introduction
         </p>
         <ul>
           <li>
-            <strong><em>경험자의 노하우와</em></strong> 참신한 아이디어를 모아서, 지속 가능한 멀티모듈 프로젝트가 뭔지 보여 드릴게요.
+            <strong><em><ins>경험자의 노하우</ins>와</em></strong> 참신한 아이디어를 모아서, 지속 가능한 멀티모듈 프로젝트가 뭔지 보여 드릴게요.
           </li>
           <li>
-            <strong><em>새 기술의</em></strong> 도입이 <strong><em>기존 소스 코드에 영향을 주지 않도록</em></strong> 설계해서, 탄력적으로 참여하는 협업 구조에 맞춥니다!
+            <strong><em>새 기술의</em></strong> 도입이 <strong><em><ins>기존 소스 코드에 영향을 주지 않도록</ins></em></strong> 설계해서, 탄력적으로 참여하는 협업 구조에 맞춥니다!
           </li>
           <li>
             우리는 탐구적인 스터디예요. 따라하기 바쁘기보다, 나아갈 수 있도록 개선책을 찾는 것을 좋아합니다!
