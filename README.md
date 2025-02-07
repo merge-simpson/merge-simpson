@@ -279,7 +279,7 @@ See: https://nettee.notion.site/introduction
   </tr>
 </table>
 
-- **LABELS**:[한 눈에 보이는 깃허브 레포지터리 Labels 목록 고안하기](https://github.com/nettee-space/backend-sample-hexagonal-simple-crud/labels)
+- **LABELS**: [한 눈에 보이는 깃허브 레포지터리 Labels 목록 고안하기](https://github.com/nettee-space/backend-sample-hexagonal-simple-crud/labels)
 - **PULL REQUEST**: [팀원들과 PR 및 코드리뷰 적응기: Driving Adapter 및 관련 테스트 코드 PR 사례](https://github.com/nettee-space/backend-sample-hexagonal-simple-crud/pull/24)
 - **DISCUSSION ISSUE**: [헥사고날 아키텍처에서 Domain의 Status와 JPA Entity의 Status를 서로 나누어서 관리하는 게 좋을까요?](https://github.com/nettee-space/backend-sample-hexagonal-simple-crud/issues/22#issuecomment-2582121840)
 - **TROUBLE SHOOTING**: [JPA 테스트에서 시간 컬럼의 정밀도 이슈: 단계적인 해결책 제시](https://nettee.notion.site/jpa-test-auditing-precision)
