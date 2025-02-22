@@ -377,7 +377,7 @@ See: https://nettee.notion.site/introduction
 ---
 
 <br />
-<h3 align="center">Look at Me. 👀<br />And Tell Me What You Want.</h3>
+<h3 align="center">Contact Me. 👀</h3>
 <p align="center">
   <em>Graduated from <a href="https://newtradecampus.kita.net/page/user_job_CloudIT_courseguide_outline">DSA Academy</a></em>
   
