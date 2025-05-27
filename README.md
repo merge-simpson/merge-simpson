@@ -162,7 +162,7 @@
 
 > **서로의 멘토·멘티가 되어 주는 스터디를 기획하여 운영하고 있습니다!**  
 > 
-> 해결중심적인 70%의 현업자와 30%의 신입 지망생 25명이 함께하는  
+> 해결중심적인 70%의 현업자와 30%의 신입 지망생 28명이 함께하는  
 > **롱텀 사이드 프로젝트**입니다.  
 
 [![notion icon padded](https://github.com/user-attachments/assets/0fe3b7c3-0e11-4d1b-9302-67cd77c73cfc) introduction](https://nettee.notion.site/introduction)
